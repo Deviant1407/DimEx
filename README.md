@@ -26,3 +26,6 @@ MVC связывает Модели и Представлению.
 Документы хранятся в opt/lampp/htdocs
 <br>
 Ключ вводить в config/web.php 17 строка
+
+# Файлы
+[Код НарушенийНет](https://drive.google.com/file/d/1CNFF904gyCV1als586N0xFhy2cyD3sAA/view?usp=sharing)
