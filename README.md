@@ -28,4 +28,4 @@ MVC связывает Модели и Представлению.
 Ключ вводить в config/web.php 17 строка
 
 # Файлы
-[Код НарушенийНет](https://drive.google.com/file/d/1CNFF904gyCV1als586N0xFhy2cyD3sAA/view?usp=sharing)
+[НарушенийНет](https://drive.google.com/drive/folders/1sEIa0NIfX1-3ai9DZC_gHcLIRNGrK2e8?usp=sharing)
