@@ -30,7 +30,7 @@ MVC связывает Модели и Представлению.
 # Файлы
 [НарушенийНет](https://drive.google.com/drive/folders/1sEIa0NIfX1-3ai9DZC_gHcLIRNGrK2e8?usp=sharing)
 <br>
-[ОргТехника](https://drive.google.com/drive/folders/1fnB2iNdw3FAwX8F3ZDzPSWlyLlJmbDOA?usp=sharing)
+[ОргТехника/Polus](https://drive.google.com/drive/folders/1fnB2iNdw3FAwX8F3ZDzPSWlyLlJmbDOA?usp=sharing)
 <br>
 [Repair Hardware](https://drive.google.com/drive/folders/1FTDD8AbYz3qgDlw5HeRyRDFqjSr7OV2l?usp=sharing)
 <br>
